@@ -20,3 +20,7 @@ This is the solution to the exercises of chapter 3 of forcasting: prinsiples and
 ![GitHub Logo](/train_test_data_retail.png)
 -check residual after seasonal naive forecasting method
 ![GitHub Logo](/check_residual_retail.png)
+-Dow-Jones index, 28 Aug - 18 Dec 1972.
+![GitHub Logo](/dowjones.png)
+-prediction of dowjones
+![GitHub Logo](/pred_dowjones.png)
