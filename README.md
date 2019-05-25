@@ -16,3 +16,7 @@ This is the solution to the exercises of chapter 3 of forcasting: prinsiples and
 ![GitHub Logo](/res_beer_naive.png)
 -checkresidual 
 ![GitHub Logo](/checkres_beer.png)
+-train and test data for retail
+![GitHub Logo](/train_test_data_retail.png)
+-check residual after seasonal naive forecasting method
+![GitHub Logo](/check_residual_retail.png)
