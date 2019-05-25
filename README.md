@@ -6,3 +6,7 @@ This is the solution to the exercises of chapter 3 of forcasting: prinsiples and
 ![GitHub Logo](/usnetelec.png)
 -After applying Box-Cox transformation
 ![GitHub Logo](/usnetelec_after_BoxCox_trans.png)
+- retail data
+![GitHub Logo](/retail.png)
+- retail after Cox-Box transformation
+![GitHub Logo](/retail_after_BoxCox.png)
